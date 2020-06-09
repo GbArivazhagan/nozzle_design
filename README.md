@@ -10,3 +10,5 @@ Inputs:
 References
 [1] MoC methodology from J.D. Anderson book on Compressible flow, Chap - 11
 [2] Reference guide - http://mae-nas.eng.usu.edu/MAE_5540_Web/propulsion_systems/section8/section.8.1.pdf
+
+A simpler version of the code has been uploaded to understand the stagnation pressure and temperature variation in the nozzle from throat to exit. The sample figure shows a dis-continuity near the throat and it can be neglected.
